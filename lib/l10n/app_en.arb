@@ -1,0 +1,162 @@
+{
+  "appTitle": "Shartflix",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "hello": "Hello",
+  "@hello": {
+    "description": "Greeting for login page"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome text for register page"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register link text"
+  },
+  "signUp": "Sign Up Now",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  "forgotPassword": "Forgot password",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  "loginSuccessful": "Login successful! Welcome!",
+  "@loginSuccessful": {
+    "description": "Login success message"
+  },
+  "registerSuccessful": "Registration successful! Welcome!",
+  "@registerSuccessful": {
+    "description": "Registration success message"
+  },
+  "emailRequired": "Email is required",
+  "@emailRequired": {
+    "description": "Email required validation message"
+  },
+  "enterValidEmail": "Enter a valid email address",
+  "@enterValidEmail": {
+    "description": "Valid email validation message"
+  },
+  "passwordRequired": "Password is required",
+  "@passwordRequired": {
+    "description": "Password required validation message"
+  },
+  "passwordMinLength": "Password must be at least 6 characters",
+  "@passwordMinLength": {
+    "description": "Password minimum length validation message"
+  },
+  "fullNameRequired": "Full name is required",
+  "@fullNameRequired": {
+    "description": "Full name required validation message"
+  },
+  "fullNameMinLength": "Full name must be at least 2 characters",
+  "@fullNameMinLength": {
+    "description": "Full name minimum length validation message"
+  },
+  "confirmPasswordRequired": "Please confirm your password",
+  "@confirmPasswordRequired": {
+    "description": "Confirm password required validation message"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Passwords do not match validation message"
+  },
+  "termsPrefix": "I have read and agree to the ",
+  "@termsPrefix": {
+    "description": "First part of terms acceptance text"
+  },
+  "termsLink": "User Agreement",
+  "@termsLink": {
+    "description": "Link text in terms acceptance"
+  },
+  "termsSuffix": ". Please continue by reading this agreement.",
+  "@termsSuffix": {
+    "description": "Last part of terms acceptance text"
+  },
+  "dontHaveAccount": "Don't have an account? ",
+  "@dontHaveAccount": {
+    "description": "Text displayed before register link"
+  },
+  "alreadyHaveAccount": "Already have an account? ",
+  "@alreadyHaveAccount": {
+    "description": "Text displayed before login link"
+  },
+  "loginDescription": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+  "@loginDescription": {
+    "description": "Login page description"
+  },
+  "registerDescription": "Tempus varius a vitae interdum id tortor elementum tristique eleifend at.",
+  "@registerDescription": {
+    "description": "Register page description"
+  },
+  "profileDetails": "Profile Details",
+  "@profileDetails": {
+    "description": "Profile details page title"
+  },
+  "uploadPhotos": "Upload Your Photos",
+  "@uploadPhotos": {
+    "description": "Title for photo upload section"
+  },
+  "uploadPhotoDescription": "Resources out incentivize relaxation floor loss cc.",
+  "@uploadPhotoDescription": {
+    "description": "Description for photo upload section"
+  },
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Continue button text"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings page title"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile page title"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home page title"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search button text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Error message title"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  }
+} 
